@@ -76,10 +76,3 @@ The program:
 6. Runs another short normal loop and prints the **event log** (state transitions, threshold violations, shutdowns, charge/discharge cycles).
 
 Output shows tick, state, voltage, temperature, current, and FAULT/WARNING when applicable.
-
-## Documentation
-
-- `docs/PLAN.md` – Build strategy and phases.
-- `docs/MILESTONES.md` – Milestone and checkpoint definitions.
-- `docs/SPEC.md` – Product goal and features.
-- `docs/GUARDRAILS.md` – Workflow and README upkeep.
